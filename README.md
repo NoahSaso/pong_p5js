@@ -10,8 +10,8 @@ Play it here:
 Instructions
 ============
 
-Use `W` to move the left paddle upward
-Use `S` to move the left paddle downward
+Use `W` to move the left paddle upward.
+Use `S` to move the left paddle downward.
 
-Use `up arrow` to move the right paddle upward
-Use `down arrow` to move the right paddle downward
+Use `up arrow` to move the right paddle upward.
+Use `down arrow` to move the right paddle downward.
